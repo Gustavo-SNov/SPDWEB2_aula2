@@ -1,0 +1,36 @@
+.btn-check {
+  width: 30px;
+  height: 30px;
+  border: 2px solid #ccc;
+  border-radius: 50%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  color: transparent;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-right: 10px;
+}
+
+/* Quando o botão for clicado, ele fica verde e o ícone aparece */
+.btn-check.checked {
+  background-color: green;
+  color: white;
+  border-color: green;
+}
+
+.btn-remove{
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 7px;
+    background-color: rgb(226, 27, 27);
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+  }
