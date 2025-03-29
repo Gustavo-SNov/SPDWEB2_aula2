@@ -12,5 +12,8 @@ Este é um projeto de uma Lista de Tarefas (To-Do List) simples e interativa, de
 
 🎨 Interface amigável.
 
-![image](https://github.com/user-attachments/assets/6c9cda32-d0ee-467e-8cc6-f0f061d73f0f)
+![image](https://github.com/user-attachments/assets/60ceefe5-c478-4a60-b400-0f1b2aa89c97)
+
+
+![image](https://github.com/user-attachments/assets/e20395ae-fb36-4523-8ab1-9605d05afd8d)
 
