@@ -21,11 +21,7 @@ body{
   text-align: center;
 }
 
-#container {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
+
 
 #taskList {
   list-style-type: none;
